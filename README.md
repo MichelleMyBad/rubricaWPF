@@ -111,6 +111,7 @@ Per testare la nostra classe <i>Contatto</i> iniziamo con l'utilizzare il <i>cos
 ```
 
 Proseguiamo poi con l'assegnare alcuni valori a <i><b>c</b></i> tramite le sue <i>properties</i>, modificandone così i valori.
+<br>
 </details>
 
 <details>
