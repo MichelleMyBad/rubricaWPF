@@ -26,14 +26,12 @@
 
     Proseguiamo poi col creare una property per attributo, di modo da poterci accedere al di fuori della nostra classe.
   </details>
-</details>
-<br>
 
-<details>
-  <summary>Metodi</summary>
-  Proseguiamo poi col creare i metodi necessari alla nostra classe <b><i>Contatto</i></b>
+  <details>
+    <summary>Metodi</summary>
+    Proseguiamo poi col creare i metodi necessari alla nostra classe <b><i>Contatto</i></b>
+  </details>
 </details>
-<br>
 
 <details>
   <summary><h4>Rubrica</h4></summary>
