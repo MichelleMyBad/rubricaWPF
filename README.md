@@ -7,8 +7,6 @@
 La prima cosa da fare sarà creare la classe <b><i>Contatto</i></b> con i suoi attributi e metodi.
 <details>
 <summary>Attributi</summary>
-Iniziamo col creare gli attributi
-<br>
     
 ```c#
 internal class Contatto
@@ -33,7 +31,7 @@ Proseguiamo poi col creare una property per attributo, di modo da poterci accede
 
 <details>
 <summary>Metodi</summary>
-Proseguiamo poi col creare i metodi necessari alla nostra classe <b><i>Contatto</i></b>
+
 </details>
 </details>
 
