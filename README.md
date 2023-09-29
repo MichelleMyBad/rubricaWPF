@@ -3,7 +3,7 @@
 #### Esercizio WPF che si occupa della gestione di contatti all'interno di una rubrica, creando due classi contenenti attributi e metodi capaci di gestire le diverse operazioni da eseguire.
 
 ## Soluzione utilizzata
-Ecco qui di sotto la spiegazione sulla creazione della classe <b><i>Contatto</i></b> e <b><i>Rubrica</i></b>.
+Ecco qui di sotto la spiegazione sulla creazione della classe <i>Contatto</i> e <i>Rubrica</i>.
 
 ### Guide utili 
  
@@ -42,7 +42,7 @@ Troveremo ora la nuova classe all'interno del nostro progetto.<br>
  
 <details>
 <summary>Contatto</summary>
-La prima cosa da fare sarà creare la classe <b><i>Contatto</i></b> con i suoi attributi e metodi.
+La prima cosa da fare sarà creare la classe <i>Contatto</i> con i suoi attributi e metodi.
 <details>
 <summary>Attributi</summary>
     
@@ -76,7 +76,7 @@ Proseguiamo poi col creare una <i>property</i> per attributo, di modo da poterci
 
 <details>
 <summary>Rubrica</summary>
-Proseguiamo ora con la creazione della nostra classe rubrica, che dovrà essere in grado di gestire ino a 100 oggetti di tipo <b><i>Contatto</i></b>.
+Proseguiamo ora con la creazione della nostra classe rubrica, che dovrà essere in grado di gestire ino a 100 oggetti di tipo <i>Contatto</i>.
 <details>
 <summary>Attributi</summary>
 </details>
@@ -101,7 +101,7 @@ public MainWindow()
     Contatto c = new Contatto();
  ```
 
-Per testare la nostra classe <i><b>Contatto</b></i> iniziamo con l'utilizzare il <i>costruttore</i> per creare un oggetto <i><b>c</b></i> di tipo <i><b>Contatto</b></i>.
+Per testare la nostra classe <i>Contatto</i> iniziamo con l'utilizzare il <i>costruttore</i> per creare un oggetto <i><b>c</b></i> di tipo <i>Contatto</i>.
 <br>
 
 ```c#
@@ -114,7 +114,7 @@ Proseguiamo poi con l'assegnare alcuni valori a <i><b>c</b></i> tramite le sue <
 </details>
 
 <details>
- <summary>Vettore di <i><b>Contatto</b></i></summary>
+ <summary>Vettore di <i>Contatto</i></summary>
 </details>
 
 
