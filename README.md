@@ -7,7 +7,7 @@
 La prima cosa da fare sarà creare la classe <b><i>Contatto</i></b> con i suoi attributi e metodi.
 <details>
 <summary>Attributi</summary>
-Iniziamo col creare gli attributi
+Iniziamo col creare gli attributi<br>
 
 ```c#
 internal class Contatto
@@ -18,7 +18,7 @@ internal class Contatto
 ```
 
 Iniziamo col creare gli attributi necessari : <b><i>numero</i></b>, <b><i>nome</i></b> e <b><i>cognome</i></b>. Li dichiariamo come privati, di modo che non siano direttamente modificabili, rispettando così l'incapsulamento.<br>
-
+<br>
 
 ```c#
     public int Numero { get => numero; set => numero = value; }
