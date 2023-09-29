@@ -137,6 +137,7 @@ Continuiamo assegnando alla prima cella dell'array <i><b>Contatti</b></i> il nos
 ```c#
     Contatti[0].Nome = "Davide";
     Contatti[0].Cognome = "Rossi";
+}
 ```
 
 Modificando poi gli attributi <i><b>nome</b></i> e <i><b>cognome</b></i> da <i><b>Contatti[0]</b></i>, andremo direttamente a modificare <i><b>c</b></i>, dato che l'abbiamo assegnata a <i><b>Contatti[0]</b></i>.
