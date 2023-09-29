@@ -64,7 +64,7 @@ Iniziamo col creare gli attributi necessari : <b><i>numero</i></b>, <b><i>nome</
 ```    
 
 
-Proseguiamo poi col creare una property per attributo, di modo da poterci accedere al di fuori della nostra classe.
+Proseguiamo poi col creare una <i>property</i> per attributo, di modo da poterci accedere al di fuori della nostra classe.
 </details>
 
 <details>
@@ -87,6 +87,38 @@ Proseguiamo ora con la creazione della nostra classe rubrica, che dovrà essere 
 
 ### Sperimentazione con le classi 
 
+<details>
+<summary>Sperimentazione con <i>Contatto</i></summary>
+
+<details>
+ <summary>Assegnazione attributi</summary>
+
+ ```c#
+public MainWindow()
+{
+    InitializeComponent();
+
+    Contatto c = new Contatto();
+ ```
+
+Per testare la nostra classe <i><b>Contatto</b></i> iniziamo con l'utilizzare il <i>costruttore</i> per creare un oggetto <i><b>c</b></i> di tipo <i><b>Contatto</b></i>.
+<br>
+
+```c#
+    c.Numero = 1;
+    c.Nome = "Michelle";
+    c.Cognome = "Martinez Bianchi";
+```
+
+Proseguiamo poi con l'assegnare alcuni valori a <i><b>c</b></i> tramite le sue <i>properties</i>.
+</details>
+
+<details>
+ <summary>Vettore di <i><b>Contatto</b></i></summary>
+</details>
+
+
+</details>
 
 
 
