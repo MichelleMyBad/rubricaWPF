@@ -16,6 +16,7 @@
         private string nome;
         private string cognome;
     ```
+    
     Iniziamo col creare gli attributi necessari : <b><i>numero</i></b>, <b><i>nome</i></b> e <b><i>cognome</i></b>. Li dichiariamo come privati, di modo che non siano direttamente modificabili, rispettando così l'incapsulamento.<br>
  
     ```c#
