@@ -102,7 +102,7 @@ public MainWindow()
  ```
 
 Per testare la nostra classe <i>Contatto</i> iniziamo con l'utilizzare il <i>costruttore</i> per creare un oggetto <i><b>c</b></i> di tipo <i>Contatto</i>.
-<br>
+<br><br>
 
 ```c#
     c.Numero = 1;
@@ -124,14 +124,14 @@ public MainWindow()
 ```
 
 Iniziamo col creare un array di <i>Contatto</i>.
-<br>
+<br><br>
 
 ```c#
     Contatti[0] = c; 
 ```
 
 Continuiamo assegnando alla prima cella dell'array <i><b>Contatti</b></i> il nostro <i><b>c</b></i>.
-<br>
+<br><br>
 
 ```c#
     Contatti[0].Nome = "Davide";
