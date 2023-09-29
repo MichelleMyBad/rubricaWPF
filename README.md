@@ -89,7 +89,7 @@ Proseguiamo ora con la creazione della nostra classe rubrica, che dovrà essere 
 
 <details>
 <summary>Sperimentazione con <i>Contatto</i></summary>
-
+Ricordiamo che le seguenti sperimentazioni sono tutte svolte all'interno di <i>MainWindow.xaml.cs</i>
 <details>
  <summary>Assegnazione attributi</summary>
 
