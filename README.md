@@ -5,7 +5,6 @@
 <details>
   <summary><h4>Contatto</h4></summary>
   La prima cosa da fare sarà creare la classe <b><i>Contatto</i></b> con i suoi attributi e metodi.
-  <br>
   <details>
     <summary>Attributi</summary>
 
@@ -40,7 +39,6 @@
   <details>
     <summary>Attributi</summary>
   </details>
-  <br>
     <details>
     <summary>Metodi</summary>
   </details>
