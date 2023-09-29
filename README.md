@@ -115,7 +115,6 @@ Proseguiamo poi con l'assegnare alcuni valori a <i><b>c</b></i> tramite le sue <
 
 <details>
  <summary>Vettore di <i>Contatto</i></summary>
-</details>
 
 ```c#
 public MainWindow()
