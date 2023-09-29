@@ -5,7 +5,7 @@
 <details>
 <summary><h4>Contatto</h4></summary>
 La prima cosa da fare sarà creare la classe <b><i>Contatto</i></b> con i suoi attributi e metodi.
-<br>
+<br><br>
 <details>
 <br>
 <summary>Attributi</summary>
@@ -41,7 +41,7 @@ Proseguiamo poi col creare i metodi necessari alla nostra classe <b><i>Contatto<
 <details>
   <summary><h4>Rubrica</h4></summary>
   Proseguiamo ora con la creazione della nostra classe rubrica, che dovrà essere in grado di gestire ino a 100 oggetti di tipo <b><i>Contatto</i></b>.
-  <br>
+  <br><br>
   <details>
     <summary>Attributi</summary>
   </details>
