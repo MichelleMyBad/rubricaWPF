@@ -23,7 +23,7 @@ Continuiamo selezionando <i>Classe</i>, per poi darle un nome ed infine aggiunge
 <br><br>
 Troveremo ora la nuova classe all'interno del nostro progetto.<br>
 <img src="https://github.com/MichelleMyBad/rubricaWPF/assets/127590227/0f0b970f-558d-47cf-92cb-2a0c3f78965a" width="220" height="175">
-<br>
+<br><br>
 </details>
 
 <details>
