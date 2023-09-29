@@ -17,18 +17,17 @@
         private int numero;
         private string nome;
         private string cognome;
-        
-    ```
+
     
     Iniziamo col creare gli attributi necessari : <b><i>numero</i></b>, <b><i>nome</i></b> e <b><i>cognome</i></b>. Li dichiariamo come privati, di modo che non siano direttamente modificabili, rispettando così l'incapsulamento.<br>
  
-    ```c#
+
     
         public int Numero { get => numero; set => numero = value; }
         public string Nome { get => nome; set => nome = value; }
         public string Cognome { get => cognome; set => cognome = value; }
         
-    ```
+
 
     Proseguiamo poi col creare una property per attributo, di modo da poterci accedere al di fuori della nostra classe.
   </details>
