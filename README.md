@@ -33,6 +33,7 @@ Proseguiamo poi col creare una property per attributo, di modo da poterci accede
 <summary>Metodi</summary>
 
 </details>
+<br>
 </details>
 
 <details>
