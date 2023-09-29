@@ -9,7 +9,6 @@
   <details>
     <summary>Attributi</summary>
     Iniziamo col creare gli attributi
-    <br>
 
     
     internal class Contatto
