@@ -8,7 +8,8 @@
   <br>
   <details>
     <summary>Attributi</summary>
-
+    Iniziamo col creare gli attributi
+    
     ```c#
     
     internal class Contatto
