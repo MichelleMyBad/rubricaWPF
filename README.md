@@ -4,7 +4,6 @@
 
 ## Soluzione utilizzata
 Ecco qui di sotto la spiegazione sulla creazione della classe <b><i>Contatto</i></b> e <b><i>Rubrica</i></b>.
-<br>
 
 ### Guide utili 
 <details>
@@ -27,7 +26,6 @@ Troveremo ora la nuova classe all'interno del nostro progetto.<br>
 <img src="https://github.com/MichelleMyBad/rubricaWPF/assets/127590227/0f0b970f-558d-47cf-92cb-2a0c3f78965a" width="185" height="180">
 <br>
 </details>
-<br>
 
 ### Creazione delle classi
 <details>
@@ -74,8 +72,6 @@ Proseguiamo ora con la creazione della nostra classe rubrica, che dovrà essere 
 <summary>Metodi</summary>
 </details>
 </details>
-
-<br>
 
 ### Sperimentazione con le classi 
 
