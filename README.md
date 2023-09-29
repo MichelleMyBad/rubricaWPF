@@ -28,6 +28,18 @@ Troveremo ora la nuova classe all'interno del nostro progetto.<br>
 <br>
 </details>
 
+<details>
+ <summary>Creazione di una property</summary>
+ Iniziamo col fare click destro sul nome del nostro attributo per poi cliccare su <i>Azioni Rapide e Refactoring</i>.
+ <br>
+ <img src="https://github.com/MichelleMyBad/rubricaWPF/assets/127590227/4ca7e889-ce60-43a6-add1-9a138c0d7e31">
+ <br><br>
+ Concludiamo cliccando su <i>Incapsula il campo: nomeAttributo (e usa lo proprietà)</i>
+ <br>
+ <img src="https://github.com/MichelleMyBad/rubricaWPF/assets/127590227/5ba0aee3-3a57-4f86-b813-a52baa9c996d">
+ <br>
+</details>
+
 ### Creazione delle classi
  
 <details>
