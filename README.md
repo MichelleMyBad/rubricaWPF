@@ -110,13 +110,36 @@ Per testare la nostra classe <i>Contatto</i> iniziamo con l'utilizzare il <i>cos
     c.Cognome = "Martinez Bianchi";
 ```
 
-Proseguiamo poi con l'assegnare alcuni valori a <i><b>c</b></i> tramite le sue <i>properties</i>.
+Proseguiamo poi con l'assegnare alcuni valori a <i><b>c</b></i> tramite le sue <i>properties</i>, modificandone così i valori.
 </details>
 
 <details>
  <summary>Vettore di <i>Contatto</i></summary>
 </details>
 
+```c#
+public MainWindow()
+{
+    InitializeComponent();
+    Contatto[] Contatti = new Contatto[100];
+```
+
+Iniziamo col creare un array di <i>Contatto</i>.
+<br>
+
+```c#
+    Contatti[0] = c; 
+```
+
+Continuiamo assegnando alla prima cella dell'array <i><b>Contatti</b></i> il nostro <i><b>c</b></i>.
+<br>
+
+```c#
+    Contatti[0].Nome = "Davide";
+    Contatti[0].Cognome = "Rossi";
+```
+
+Modificando poi gli attributi <i><b>nome</b></i> e <i><b>cognome</b></i> da <i><b>Contatti[0]</b></i>, andremo direttamente a modificare <i><b>c</b></i>, dato che l'abbiamo assegnata a <i><b>Contatti[0]</b></i>.
 
 </details>
 
