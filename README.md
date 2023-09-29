@@ -3,6 +3,7 @@
 #### Esercizio WPF che si occupa della gestione di contatti all'interno di una rubrica, creando due classi contenenti attributi e metodi capaci di gestire le diverse operazioni da eseguire.
 
 ## Soluzione utilizzata
+Ecco qui di sotto la spiegazione sulla creazione della classe <b><i>Contatto</i></b> e <b><i>Rubrica</i></b>.
 <details>
 <summary>Contatto</summary>
 La prima cosa da fare sarà creare la classe <b><i>Contatto</i></b> con i suoi attributi e metodi.
