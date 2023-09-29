@@ -4,10 +4,10 @@
 
 <details>
 <summary>Contatto</summary>
+    <br>
 La prima cosa da fare sarà creare la classe <b><i>Contatto</i></b> con i suoi attributi e metodi.
-<br><br>
-<details>
 <br>
+<details>
 <summary>Attributi</summary>
 Iniziamo col creare gli attributi
 
