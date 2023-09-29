@@ -4,8 +4,10 @@
 
 ## Soluzione utilizzata
 Ecco qui di sotto la spiegazione sulla creazione della classe <b><i>Contatto</i></b> e <b><i>Rubrica</i></b>.
+<br>
 
-### Guide utili
+### Guide utili 
+<br>
 <details>
 <summary>Creazione di una classe in Visual Studio</summary>
 Per prima cosa sarà necessario capire come preare una nuova classe all'interno del nostro progetto, ecco qui di sotto una semplice guida.
@@ -26,8 +28,10 @@ Troveremo ora la nuova classe all'interno del nostro progetto.<br>
 <img src="https://github.com/MichelleMyBad/rubricaWPF/assets/127590227/0f0b970f-558d-47cf-92cb-2a0c3f78965a" width="185" height="180">
 <br>
 </details>
+<br>
 
 ### Creazione delle classi
+<br>
 <details>
 <summary>Contatto</summary>
 La prima cosa da fare sarà creare la classe <b><i>Contatto</i></b> con i suoi attributi e metodi.
@@ -72,6 +76,8 @@ Proseguiamo ora con la creazione della nostra classe rubrica, che dovrà essere 
 <summary>Metodi</summary>
 </details>
 </details>
+
+<br>
 
 ### Sperimentazione con le classi 
 
