@@ -8,7 +8,7 @@ Ecco qui di sotto la spiegazione sulla creazione della classe <b><i>Contatto</i>
 <details>
 <summary>Creazione di una classe in Visual Studio</summary>
 Per prima cosa sarà necessario capire come preare una nuova classe all'interno del nostro progetto, ecco qui di sotto una semplice guida.
-<br><br><br>
+<br>
 Per prima cosa facciamo click destro sul nostro progetto.<br>
 <img src="https://github.com/MichelleMyBad/rubricaWPF/assets/127590227/90dde1a8-f3ab-4e0a-abbd-09eb3e3f90bd">
 <br><br>
