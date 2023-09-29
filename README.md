@@ -5,6 +5,7 @@
 ## Soluzione utilizzata
 Ecco qui di sotto la spiegazione sulla creazione della classe <b><i>Contatto</i></b> e <b><i>Rubrica</i></b>.
 
+### Consigli utili
 <details>
 <summary>Creazione di una classe in Visual Studio</summary>
 Per prima cosa sarà necessario capire come preare una nuova classe all'interno del nostro progetto, ecco qui di sotto una semplice guida.
@@ -26,6 +27,7 @@ Troveremo ora la nuova classe all'interno del nostro progetto.<br>
 <br>
 </details>
 
+### Creazione delle classi
 <details>
 <summary>Contatto</summary>
 La prima cosa da fare sarà creare la classe <b><i>Contatto</i></b> con i suoi attributi e metodi.
@@ -71,6 +73,7 @@ Proseguiamo ora con la creazione della nostra classe rubrica, che dovrà essere 
 </details>
 </details>
 
+### Sperimentazione con le classi 
 
 
 
