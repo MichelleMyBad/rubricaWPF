@@ -16,13 +16,13 @@ Proseguiamo poi col cliccare su <i>Aggiungi</i>,<br>
 <img src="https://github.com/MichelleMyBad/rubricaWPF/assets/127590227/d67374b4-925f-4153-893c-012d22463c1d" width="165" height="195">
 <br><br>
 Poi su <i>Classe</i>.<br>
-<img src="https://github.com/MichelleMyBad/rubricaWPF/assets/127590227/52117758-a2d3-4526-9d43-bfed6adc5d45">
+<img src="https://github.com/MichelleMyBad/rubricaWPF/assets/127590227/52117758-a2d3-4526-9d43-bfed6adc5d45" width="165" height="195">
 <br><br>
 Continuiamo selezionando <i>Classe</i>, per poi darle un nome ed infine aggiungerla al nostro progetto.<br>
-<img src="https://github.com/MichelleMyBad/rubricaWPF/assets/127590227/55e9a6b4-06e8-4289-914e-717fe44921b7">
+<img src="https://github.com/MichelleMyBad/rubricaWPF/assets/127590227/55e9a6b4-06e8-4289-914e-717fe44921b7" width="165" height="195">
 <br><br>
 Troveremo ora la nuova classe all'interno del nostro progetto.
-<img src="https://github.com/MichelleMyBad/rubricaWPF/assets/127590227/0f0b970f-558d-47cf-92cb-2a0c3f78965a">
+<img src="https://github.com/MichelleMyBad/rubricaWPF/assets/127590227/0f0b970f-558d-47cf-92cb-2a0c3f78965a" width="165" height="195">
 <br>
 </details>
 
