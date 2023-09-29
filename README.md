@@ -7,8 +7,8 @@
 La prima cosa da fare sarà creare la classe <b><i>Contatto</i></b> con i suoi attributi e metodi.
 <details>
 <summary>Attributi</summary>
-Iniziamo col creare gli attributi<br><br>
-
+Iniziamo col creare gli attributi
+<br><br>
 ```c#
 internal class Contatto
 {
