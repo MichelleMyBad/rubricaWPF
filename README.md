@@ -21,7 +21,7 @@ Poi su <i>Classe</i>.<br>
 Continuiamo selezionando <i>Classe</i>, per poi darle un nome ed infine aggiungerla al nostro progetto.<br>
 <img src="https://github.com/MichelleMyBad/rubricaWPF/assets/127590227/55e9a6b4-06e8-4289-914e-717fe44921b7" width="400" height="290">
 <br><br>
-Troveremo ora la nuova classe all'interno del nostro progetto.
+Troveremo ora la nuova classe all'interno del nostro progetto.<br>
 <img src="https://github.com/MichelleMyBad/rubricaWPF/assets/127590227/0f0b970f-558d-47cf-92cb-2a0c3f78965a" width="185" height="195">
 <br>
 </details>
