@@ -46,6 +46,15 @@ Per la creazione del metodo <b><i>Window_Loaded</i></b> basterà semplicemente i
 <br><br>
 </details>
 
+<details>
+<summary><a name="LoadingRow"></a>Creazione veloce metodo dgDati_LoadingRow</summary>
+Facciamo click sinistro sulla nostra <i>DataGrid</i> per poi andare a controllarne le <i>properties</i>.<br>
+<img src="https://github.com/MichelleMyBad/rubricaWPF/assets/127590227/7d03c312-1408-426a-963c-e1152a149d40"><br>
+<img src="https://github.com/MichelleMyBad/rubricaWPF/assets/127590227/01f15468-8753-4139-a145-d70599b4f767" width="275" height="395">
+<br><br>
+Cerchiamo ora la <i>LoadingRow</i>, per poi fare doppio click sullo spazio subito a destra, di modo da creare automaticamente il metodo <b><i>dgDati_LoadingRow</i></b>.<br>
+<img src="https://github.com/MichelleMyBad/rubricaWPF/assets/127590227/d779fb4a-5aa1-4817-84fd-c8384f46d95d" width="275" height="395">
+</details>
 
 <details>
 <summary><a name="csv"></a>Creazione file .csv</summary>
@@ -66,23 +75,17 @@ Ricordiamoci infine di selezionare <i>Copy Always</i> all'interno delle propriet
 <br><br>
 </details>
 
-<details>
-<summary><a name="LoadingRow"></a>Creazione veloce metodo dgDati_LoadingRow</summary>
-Facciamo click sinistro sulla nostra <i>DataGrid</i> per poi andare a controllarne le <i>properties</i>.<br>
-<img src="https://github.com/MichelleMyBad/rubricaWPF/assets/127590227/7d03c312-1408-426a-963c-e1152a149d40"><br>
-<img src="https://github.com/MichelleMyBad/rubricaWPF/assets/127590227/01f15468-8753-4139-a145-d70599b4f767" width="275" height="395">
-<br><br>
-Cerchiamo ora la <i>LoadingRow</i>, per poi fare doppio click sullo spazio subito a destra, di modo da creare automaticamente il metodo <b><i>dgDati_LoadingRow</i></b>.<br>
-<img src="https://github.com/MichelleMyBad/rubricaWPF/assets/127590227/d779fb4a-5aa1-4817-84fd-c8384f46d95d" width="275" height="395">
-</details>
+
 
 
 
 ### Creazione della classe Contatto
- 
+Guide utilizzate :<br>
+["creazione di una classe in Visual Studio"](#classe) <br>
+["creazione di una property"](#property)
 <details>
 <summary>Contatto</summary>
-La prima cosa da fare sarà [creare la classe <i>Contatto</i>](#classe) con i suoi attributi e metodi.
+La prima cosa da fare sarà creare la classe <i>Contatto</i> con i suoi attributi e metodi.
 <details>
 <summary>Attributi</summary>
     
@@ -175,8 +178,14 @@ Concludiamo col creare un costruttore che si occupa di ricavare da una <i>string
 </details>
 
 </details>
+<br>
 
 ### XAML
+Guide utilizzate :<br> 
+["creazione veloce del metodo Window_Loaded"](#Window_Loaded) <br>
+["creazione veloce del metodo dgDati_LoadingRow"](#LoadingRow)
+
+
 <details>
 <summary>XAML</summary>
 
@@ -207,9 +216,11 @@ Oggiungiamo le <i>property</i> <b><i>WindowStartupLocation="CenterScreen"</i></b
 Creaiamo poi una griglia, all'interno della quale inserire una <b><i>DataGrid</i></b> nella quale andare poi a mostrare graficamente la nostra lista di contatti. Ricordiamoci di creare il metodo <i><b>dsDati_LoadingRow</b></i> tramite <i>property</i>, il quale si occupera di gestire operazioni al caricamento di ogni riga.
 
 </details>
-
+<br>
 
 ### Creazione del file .csv
+Guide utilizzate :<br>
+[Creazione file .csv](#csv)
 <details>
 <summary>Dati.csv</summary>
 
@@ -221,7 +232,7 @@ PK;Nome;Cognome;Telefono
 ```
 Seguiamo questa struttura per la scrittura dei diversi contatti, con PK facente da chiave identificativa per il singolo contatto.
 </details>
-
+<br>
 
 ### Creazione della Rubrica
 <details>
@@ -314,3 +325,10 @@ All'interno del metodo <i><b>dgDati_LoadingRow</b></i> ci occuperemo invece di i
 <img src="https://github.com/MichelleMyBad/rubricaWPF/assets/127590227/a25da537-acf0-4754-8521-95c738d9f469" width="820" height="450">
 </details>
 </details>
+
+
+
+
+
+
+
