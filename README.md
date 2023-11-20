@@ -143,6 +143,8 @@ Continuiamo assegnando alla prima cella dell'array <i><b>Contatti</b></i> il nos
 Modificando poi gli attributi <i><b>nome</b></i> e <i><b>cognome</b></i> da <i><b>Contatti[0]</b></i>, andremo direttamente a modificare <i><b>c</b></i>, dato che l'abbiamo assegnata a <i><b>Contatti[0]</b></i>.
 
 </details>
+<img src="https://github.com/MichelleMyBad/rubricaWPF/assets/127590227/3f66689b-9938-4a22-8251-e93d378c20ac">
+
 
 
 
