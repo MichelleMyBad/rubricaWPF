@@ -325,7 +325,7 @@ private void dgDati_LoadingRow(object sender, DataGridRowEventArgs e)
 }
 ```
 All'interno del metodo <i><b>dgDati_LoadingRow</b></i> ci occuperemo invece di inserire in ogni rriga della <i>Grid</i> un contatto che, in caso sia vuoto o presenti una chiave identificativa invalida, verrà colorato interamente di rosso, in caso abbia un numero di telefono che inizi per <i>3</i> verrà colorato in giallo, altrimenti sarà colorato con il colore di default salvato in precedenza (vedi immagine).<br>
-<img src="https://github.com/MichelleMyBad/rubricaWPF/assets/127590227/a25da537-acf0-4754-8521-95c738d9f469" width="820" height="450">
+<img src="https://github.com/MichelleMyBad/rubricaWPF/assets/127590227/242c6cd2-b0a1-47ea-9e8c-2eba0e2878cd" width="820" height="450">
 </details>
 </details>
 
